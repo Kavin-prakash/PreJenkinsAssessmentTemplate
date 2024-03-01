@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9ZJOGB8dFFx3PtBFjYOW42yG4lEKcQCl2m7GLI6xFH8=",
+  "Source": "Jenkinsdeployment",
+  "BasePath": "_content/Jenkinsdeployment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
